@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/bin/bash
 # Gets info from explicit.txt and applies ratings to music files
 

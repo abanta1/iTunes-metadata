@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 countryCode = {
     "AE": "United Arab Emirates",
     "AG": "Antigua and Barbuda",
@@ -76,7 +77,7 @@ countryCode = {
     "KW": "Kuwait",
     "KY": "Cayman Islands",
     "KZ": "Kazakstan",
-    "LA": "Lao People’s Democratic Republic",
+    "LA": "Lao Peopleâ€™s Democratic Republic",
     "LB": "Lebanon",
     "LC": "St. Lucia",
     "LK": "Sri Lanka",

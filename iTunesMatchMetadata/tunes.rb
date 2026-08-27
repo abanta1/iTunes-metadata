@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 module Tunes
 	Version = 1.1
 	Path = "/Users/mattleopard/extra/OSX/iTunesOld.app"
@@ -327,3 +328,4 @@ module Tunes
 		]],
 	]
 end
+

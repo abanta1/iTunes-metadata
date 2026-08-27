@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/usr/bin/php
 <?php
 
@@ -37,7 +38,7 @@ $server_data = json_decode($json);
 
 // Loop through all countries, and store them in an array.
 $countries = array();
-// E.g. Korea, Republic of → Republic of Korea
+// E.g. Korea, Republic of â†’ Republic of Korea
 function sort_name_to_name ($str) {
   if (strpos($str, ',') === FALSE) {
     return $str;

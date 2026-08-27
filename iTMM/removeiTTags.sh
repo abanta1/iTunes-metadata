@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/bin/bash
 # Overwrites podcast, copyright, encoding tool and encoded by m4a tags
 

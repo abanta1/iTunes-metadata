@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/bin/bash
 # Applies artwork in current dir to files (writen for iTunes Library (music))
 # Uses:

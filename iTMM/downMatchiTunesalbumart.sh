@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/bin/bash
 #Reads iTunes TrackID from inside iTunes files and displays relative information to the screen
 #

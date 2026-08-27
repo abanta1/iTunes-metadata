@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/usr/bin/env ruby
 # by @tapbot_paul
 # Don't blame me if this nukes your metadata, formats your drive, kills your kids

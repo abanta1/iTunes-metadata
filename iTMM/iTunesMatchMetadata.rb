@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/usr/bin/env ruby
 # original by @tapbot_paul, this by @abanta
 # Don't blame me if this nukes your metadata, formats your drive, kills your kids
@@ -1662,4 +1663,5 @@ if tracks.count > 0
 	printf("%37sDone!", " ")
 end
 print "\n" * 9
+
 

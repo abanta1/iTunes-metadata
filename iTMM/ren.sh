@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/bin/bash
 #Renames TV Shows from iTunes (1-02 Title.m4v) into standard (Show - S01E01.m4v)
 

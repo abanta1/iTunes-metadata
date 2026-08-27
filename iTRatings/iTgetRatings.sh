@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/bin/bash
 # Prereq - oldiTunesMetaData.rb -- echo idlist to reslt\ do.txt
 # Searches all iTunes stores for music tags based off of iTunes TrackID, Creates list for iTapplyRating.sh

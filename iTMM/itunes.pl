@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
             143441 => 'United States', # USA
             143442 => 'France', # FRA
             143443 => 'Germany', # DEU
@@ -153,3 +154,4 @@
             143603 => 'Tajikistan', # TJK
             143604 => 'Turkmenistan', # TKM
             143605 => 'Zimbabwe', # ZWE
+
